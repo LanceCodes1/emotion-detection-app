@@ -5,13 +5,13 @@
 
 ---
 
-## 🔍 The Problem
+##  The Problem
 
 Understanding how to work with someone else's code — reading it, running it, breaking it, fixing it, and documenting what you did — is one of the most important real-world dev skills. This lab was designed to build exactly that.
 
 ---
 
-## 🔨 What I Did
+##  What I Did
 
 This was a guided lab project. My work included:
 
@@ -24,7 +24,7 @@ This was a guided lab project. My work included:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ```
 Python 3.x
@@ -35,7 +35,7 @@ Git/GitHub     — version control and submission workflow
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 - How to read and navigate code written by someone else
 - How local servers work and how to diagnose common startup errors
@@ -45,7 +45,7 @@ Git/GitHub     — version control and submission workflow
 
 ---
 
-## 🚀 What I Would Build Next
+##  What I Would Build Next
 
 - Extend the emotion detection output into a simple dashboard showing emotion trends over time
 - Connect it to a Claude prompt: *"Based on this text's emotional tone, suggest a supportive response"*
@@ -53,7 +53,7 @@ Git/GitHub     — version control and submission workflow
 
 ---
 
-## 🔗 Context
+##  Context
 
 Completed by [Lance Gonzalez](https://github.com/LanceCodes1) through Justice Through Code / Coursera AI coursework.  
 Part of a portfolio focused on practical AI tools for nonprofits and community-serving organizations.
